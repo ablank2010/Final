@@ -1,0 +1,41 @@
+html {
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+h1 {
+    border: 3px solid black;
+    padding-top: 20px;
+    padding-bottom: 20px;
+    margin-bottom: 0px;
+    text-align: center;
+    background-color: lightgray;
+}
+
+table {
+    table-layout: fixed;
+    width: 100%;
+    border-collapse: collapse;
+    border: 3px solid black;
+}
+
+
+th {
+    background-color: lightgray;
+    border-bottom: 3px solid black;
+}
+
+
+
+th, td {
+    padding: 10px;
+    text-align: left;
+}
+
+
+
+
+
+
+
+
+
